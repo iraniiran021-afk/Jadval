@@ -1,0 +1,29 @@
+{
+  "name": "جدول تناوبی فارسی",
+  "short_name": "جدول تناوبی",
+  "description": "جدول تناوبی عناصر شیمی به زبان فارسی با قابلیت کوییز و یادگیری",
+  "start_url": "/Jadval/index.html",
+  "scope": "/Jadval/",
+  "display": "standalone",
+  "background_color": "#0d0d1a",
+  "theme_color": "#0d0d1a",
+  "orientation": "landscape",
+  "lang": "fa",
+  "dir": "rtl",
+  "id": "/Jadval/",
+  "categories": ["education"],
+  "icons": [
+    {
+      "src": "/Jadval/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Jadval/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
